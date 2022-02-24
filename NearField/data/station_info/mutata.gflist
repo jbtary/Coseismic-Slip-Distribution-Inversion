@@ -1,0 +1,9 @@
+#station lon lat "static,disp,vel,tsun,insar" "Static file, displacement file, velocity file,tsunami file,insar file" "static sigmas(n,e,u),displacement sigmas(n,e,u),velocity sigmas(n,e,u),tsunami sigma,tsunami sigma"
+CBOC -76.012  5.8643 0	1	0	0	0	/foo/bar	/Users/jeanbaptistetary/Documents/SSI/NearField/data/waveforms/CBOC.disp	/foo/bar	/foo/bar	/foo/bar	1	1	1	1.0 10000000.0 1.0	1	1	1	0	0	0	0	1	0
+PAL  -76.283  4.9050 0	1	0	0	0	/foo/bar	/Users/jeanbaptistetary/Documents/SSI/NearField/data/waveforms/PAL.disp	/foo/bar	/foo/bar	/foo/bar	1	1	1	1.0 1.0 1.0	1	1	1	0	0	0	0	1	0
+PTB  -74.456  6.5395 0	1	0	0	0	/foo/bar	/Users/jeanbaptistetary/Documents/SSI/NearField/data/waveforms/PTB.disp	/foo/bar	/foo/bar	/foo/bar	1	1	1	1.0 1.0 1.0	1	1	1	0	0	0	0	1	0
+UPD2 -78.014  8.5475 0	1	0	0	0	/foo/bar	/Users/jeanbaptistetary/Documents/SSI/NearField/data/waveforms/UPD2.disp	/foo/bar	/foo/bar	/foo/bar	1	1	1	100000000.0 1.0 1.0	1	1	1	0	0	0	0	1	0
+HEL  -75.529  6.1909 0	1	0	0	0	/foo/bar	/Users/jeanbaptistetary/Documents/SSI/NearField/data/waveforms/HEL.disp	/foo/bar	/foo/bar	/foo/bar	1	1	1	1.0 1.0 1.0	1	1	1	0	0	0	0	1	0
+ZAR  -74.858  7.4923 0	1	0	0	0	/foo/bar	/Users/jeanbaptistetary/Documents/SSI/NearField/data/waveforms/ZAR.disp	/foo/bar	/foo/bar	/foo/bar	1	1	1	1.0 1.0 1.0	1	1	1	0	0	0	0	1	0
+BRR  -73.712  7.1071 0	1	0	0	0	/foo/bar	/Users/jeanbaptistetary/Documents/SSI/NearField/data/waveforms/BRR.disp	/foo/bar	/foo/bar	/foo/bar	1	1	1	1.0 1.0 1.0	1	1	1	0	0	0	0	1	0
+NOR  -74.869  5.5635 0	1	0	0	0	/foo/bar	/Users/jeanbaptistetary/Documents/SSI/NearField/data/waveforms/NOR.disp	/foo/bar	/foo/bar	/foo/bar	1	1	1	1.0 1.0 1.0	1	1	1	0	0	0	0	1	0

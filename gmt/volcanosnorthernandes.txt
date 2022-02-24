@@ -1,0 +1,44 @@
+# List of active volcanoes in the Northern Andes (from Smithsonian Institution - Global Volcanism Program)
+# Lat lon elevation(m) name country type
+# 5.65	-74.961	1163	San Diego	Colombia	Maar
+# 5.514	-75.043	1620	El Escondido	Colombia	Lava dome
+5.203	-75.363	3769	Romeral	Colombia	Stratovolcano
+5.091	-75.293	3985	Cerro Bravo	Colombia	Stratovolcano
+4.892	-75.324	5279	Nevado del Ruiz	Colombia	Stratovolcano
+4.818	-75.365	4944	Santa Isabel	Colombia	Shield
+4.658	-75.33	5215	Nevado del Tolima	Colombia	Stratovolcano
+4.487	-75.389	2749	Cerro Machin	Colombia	Stratovolcano
+2.93	-76.03	5364	Nevado del Huila	Colombia	Stratovolcano
+2.32	-76.4	4650	Purace	Colombia	Stratovolcano(es)
+2.108	-76.592	4400	Sotara	Colombia	Stratovolcano
+1.666	-76.814	3280	Petacas	Colombia	Lava dome
+1.5	-76.936	4137	Dona Juana	Colombia	Stratovolcano
+1.22	-77.37	4276	Galeras	Colombia	Complex
+1.08	-77.68	4070	Azufral	Colombia	Stratovolcano
+0.95	-77.87	4764	Cumbal	Colombia	Stratovolcano
+0.817	-77.938	4698	Chiles-Cerro Negro	Colombia	Stratovolcano
+0.038	-78.463	3356	Pululagua	Ecuador	Caldera
+0.029	-77.986	5790	Cayambe	Ecuador	Compound
+0.077	-77.656	3562	Reventador	Ecuador	Stratovolcano
+0.552	-77.58	3955	Soche	Ecuador	Stratovolcano
+0.468	-78.287	4106	Chachimbiro	Ecuador	Stratovolcano
+0.308	-78.364	3246	Cuicocha	Ecuador	Caldera
+0.258	-78.183	4609	Imbabura	Ecuador	Compound
+0.13	-78.27	4263	Mojanda	Ecuador	Stratovolcano(es)
+-0.171	-78.598	4784	Guagua Pichincha	Ecuador	Stratovolcano
+-0.353	-78.617	4463	Atacazo	Ecuador	Stratovolcano
+-0.375	-78.25	4643	Chacana	Ecuador	Caldera
+-0.481	-78.141	5753	Antisana	Ecuador	Stratovolcano
+-0.53	-78	4267	Aliso	Ecuador	Stratovolcano
+-0.538	-77.626	3990	Sumaco	Ecuador	Stratovolcano
+-0.659	-78.714	5248	Illiniza	Ecuador	Stratovolcano
+-0.677	-78.436	5911	Cotopaxi	Ecuador	Stratovolcano
+-0.85	-78.9	3914	Quilotoa	Ecuador	Caldera
+-1.464	-78.815	6310	Chimborazo	Ecuador	Stratovolcano
+-1.467	-78.442	5023	Tungurahua	Ecuador	Stratovolcano
+-1.78	-78.613	3336	Licto	Ecuador	Pyroclastic cone(s)
+-2.005	-78.341	5286	Sangay	Ecuador	Stratovolcano
+2.286	-76.374	0	Pan de Azucar	Colombia	Stratovolcano
+1.565	-76.853	4300	Las Animas	Colombia	Stratovolcano
+4.843	-75.352	4700	Paramillo del Cisne-Morro Negro	Colombia	Stratovolcano
+4.788	-75.465	4600	Paramillo de Santa Rosa	Colombia	Stratovolcano

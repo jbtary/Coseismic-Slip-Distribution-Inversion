@@ -1,0 +1,4999 @@
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0000.log <==
+Project: NearField
+Run name: mutata
+Run number: 0000
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.468559076976851e-05
+VR static(%) = nan
+VR displacement(%) = 44.53075265367495
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.7275317283949687
+ABIC = -113624.2475043216
+M0(N-m) = 3.3966639738939597e+18
+Mw = 6.287368389994226
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0001.log <==
+Project: NearField
+Run name: mutata
+Run number: 0001
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0012742749857031334
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.485864590681206e-05
+VR static(%) = nan
+VR displacement(%) = 44.59263992176903
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.6896858431292863
+ABIC = -113520.4678479616
+M0(N-m) = 3.378674387452131e+18
+Mw = 6.285830893057253
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0002.log <==
+Project: NearField
+Run name: mutata
+Run number: 0002
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001623776739188721
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.5196873021016495e-05
+VR static(%) = nan
+VR displacement(%) = 44.678766369149756
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.542448307552728
+ABIC = -113407.58730060287
+M0(N-m) = 3.3447587965056384e+18
+Mw = 6.282909869718733
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0003.log <==
+Project: NearField
+Run name: mutata
+Run number: 0003
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00206913808111479
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.5847466179342996e-05
+VR static(%) = nan
+VR displacement(%) = 44.778248580760874
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.4095148295697832
+ABIC = -113228.26685605836
+M0(N-m) = 3.3190060634243185e+18
+Mw = 6.280672030542025
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0004.log <==
+Project: NearField
+Run name: mutata
+Run number: 0004
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0026366508987303583
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.687379783391432e-05
+VR static(%) = nan
+VR displacement(%) = 45.10581548796688
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.0719943790780797
+ABIC = -113317.53688497565
+M0(N-m) = 3.2637829604529336e+18
+Mw = 6.275814180485174
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0005.log <==
+Project: NearField
+Run name: mutata
+Run number: 0005
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.003359818286283781
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.8312188650788494e-05
+VR static(%) = nan
+VR displacement(%) = 45.45651300230381
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.8744970425038139
+ABIC = -113362.97281235592
+M0(N-m) = 3.2118004173138975e+18
+Mw = 6.271165700130394
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0006.log <==
+Project: NearField
+Run name: mutata
+Run number: 0006
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.004281332398719396
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.0733587129126314e-05
+VR static(%) = nan
+VR displacement(%) = 45.84352779560115
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.7210966436391937
+ABIC = -113237.18134621523
+M0(N-m) = 3.0977865746021555e+18
+Mw = 6.260700995506682
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0007.log <==
+Project: NearField
+Run name: mutata
+Run number: 0007
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00545559478116852
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.45466751934542e-05
+VR static(%) = nan
+VR displacement(%) = 45.8858786294686
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.5083653650076645
+ABIC = -113234.73623009732
+M0(N-m) = 3.1085390078855864e+18
+Mw = 6.261704214357534
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0008.log <==
+Project: NearField
+Run name: mutata
+Run number: 0008
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0069519279617756054
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.894380379396051e-05
+VR static(%) = nan
+VR displacement(%) = 45.79975461548974
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.3226934137578175
+ABIC = -113215.60518572367
+M0(N-m) = 3.124877107722627e+18
+Mw = 6.263221961656087
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0009.log <==
+Project: NearField
+Run name: mutata
+Run number: 0009
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.008858667904100823
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 5.411206092504676e-05
+VR static(%) = nan
+VR displacement(%) = 45.67341022152897
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.1891783993640381
+ABIC = -113141.21580306803
+M0(N-m) = 3.113443648945109e+18
+Mw = 6.262160673143861
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0010.log <==
+Project: NearField
+Run name: mutata
+Run number: 0010
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.011288378916846888
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.011526404847899e-05
+VR static(%) = nan
+VR displacement(%) = 45.324619010717704
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.0774676516663673
+ABIC = -112980.34345964256
+M0(N-m) = 3.1147667142891387e+18
+Mw = 6.262283683329931
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0011.log <==
+Project: NearField
+Run name: mutata
+Run number: 0011
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.01438449888287663
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.633953635640505e-05
+VR static(%) = nan
+VR displacement(%) = 44.88971744089002
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.9891184108698176
+ABIC = -112831.80371195436
+M0(N-m) = 3.149885699581267e+18
+Mw = 6.265529863173644
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0012.log <==
+Project: NearField
+Run name: mutata
+Run number: 0012
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.018329807108324356
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 7.323813148948089e-05
+VR static(%) = nan
+VR displacement(%) = 44.66015386231512
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.9061160069591492
+ABIC = -112654.36571447414
+M0(N-m) = 3.1178457910162703e+18
+Mw = 6.262569754088563
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0013.log <==
+Project: NearField
+Run name: mutata
+Run number: 0013
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.023357214690901212
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.077270290949154e-05
+VR static(%) = nan
+VR displacement(%) = 44.19037802327973
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.829536455864288
+ABIC = -112445.78810002422
+M0(N-m) = 3.068025364709813e+18
+Mw = 6.257905963863022
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0014.log <==
+Project: NearField
+Run name: mutata
+Run number: 0014
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.029763514416313176
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.834679813866105e-05
+VR static(%) = nan
+VR displacement(%) = 43.669517783658875
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.7578510616214907
+ABIC = -112199.19182494572
+M0(N-m) = 2.990731714857287e+18
+Mw = 6.250518304110946
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0015.log <==
+Project: NearField
+Run name: mutata
+Run number: 0015
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0379269019073225
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 9.655566253435908e-05
+VR static(%) = nan
+VR displacement(%) = 43.20189746585697
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.7008437255339449
+ABIC = -111915.35841766334
+M0(N-m) = 2.8542040756076575e+18
+Mw = 6.236990014631147
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0016.log <==
+Project: NearField
+Run name: mutata
+Run number: 0016
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.04832930238571752
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001059833651134291
+VR static(%) = nan
+VR displacement(%) = 42.63458988294955
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6687279260525443
+ABIC = -111623.47884554163
+M0(N-m) = 2.746108812235146e+18
+Mw = 6.225811827861724
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0017.log <==
+Project: NearField
+Run name: mutata
+Run number: 0017
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.06158482110660261
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00011719736977067875
+VR static(%) = nan
+VR displacement(%) = 41.49901042039392
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.644482220407358
+ABIC = -111304.30953694921
+M0(N-m) = 2.737655306661584e+18
+Mw = 6.224919177326584
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0018.log <==
+Project: NearField
+Run name: mutata
+Run number: 0018
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.07847599703514611
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00012980220556571594
+VR static(%) = nan
+VR displacement(%) = 40.38457197904229
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6288483947322602
+ABIC = -110994.69065948381
+M0(N-m) = 2.7646173088510766e+18
+Mw = 6.227756681829953
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0019.log <==
+Project: NearField
+Run name: mutata
+Run number: 0019
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.1
+lambda_temporal = 0.0001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00014472837019035786
+VR static(%) = nan
+VR displacement(%) = 39.43170437765462
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6045252455209026
+ABIC = -110688.5582325214
+M0(N-m) = 2.7766035733991296e+18
+Mw = 6.229009252164546
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0020.log <==
+Project: NearField
+Run name: mutata
+Run number: 0020
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.469518507600143e-05
+VR static(%) = nan
+VR displacement(%) = 44.53537160587035
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.726829895254991
+ABIC = -114026.93526963369
+M0(N-m) = 3.3959604525892106e+18
+Mw = 6.287308416037678
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0021.log <==
+Project: NearField
+Run name: mutata
+Run number: 0021
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0012742749857031334
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.486875414263309e-05
+VR static(%) = nan
+VR displacement(%) = 44.59783003750917
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.687500790430456
+ABIC = -113929.89187199899
+M0(N-m) = 3.377593063961509e+18
+Mw = 6.2857382160808974
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0022.log <==
+Project: NearField
+Run name: mutata
+Run number: 0022
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001623776739188721
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.520740500640455e-05
+VR static(%) = nan
+VR displacement(%) = 44.683606519307794
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.5413705497589487
+ABIC = -113828.86210148977
+M0(N-m) = 3.3438710443093484e+18
+Mw = 6.2828330137424295
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0023.log <==
+Project: NearField
+Run name: mutata
+Run number: 0023
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00206913808111479
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.585859124657318e-05
+VR static(%) = nan
+VR displacement(%) = 44.783941877030685
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.4081274928744
+ABIC = -113660.89642637584
+M0(N-m) = 3.318268212893106e+18
+Mw = 6.280607657848827
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0024.log <==
+Project: NearField
+Run name: mutata
+Run number: 0024
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0026366508987303583
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.6883596372826745e-05
+VR static(%) = nan
+VR displacement(%) = 45.11088308169966
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.0704349580610177
+ABIC = -113770.56368148707
+M0(N-m) = 3.2630695068933827e+18
+Mw = 6.275750883217608
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0025.log <==
+Project: NearField
+Run name: mutata
+Run number: 0025
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.003359818286283781
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.8321198571717494e-05
+VR static(%) = nan
+VR displacement(%) = 45.460271577270085
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.8736986475769137
+ABIC = -113825.96922909383
+M0(N-m) = 3.211208480370774e+18
+Mw = 6.27111233470559
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0026.log <==
+Project: NearField
+Run name: mutata
+Run number: 0026
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.004281332398719396
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.074209300364366e-05
+VR static(%) = nan
+VR displacement(%) = 45.846429986620784
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.7205291126019084
+ABIC = -113707.74263821641
+M0(N-m) = 3.0972051368947323e+18
+Mw = 6.260646647263155
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0027.log <==
+Project: NearField
+Run name: mutata
+Run number: 0027
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00545559478116852
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.455391185620856e-05
+VR static(%) = nan
+VR displacement(%) = 45.888654615528324
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.5079380830696203
+ABIC = -113714.72817592796
+M0(N-m) = 3.108073267443902e+18
+Mw = 6.261660831993155
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0028.log <==
+Project: NearField
+Run name: mutata
+Run number: 0028
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0069519279617756054
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.895008480054647e-05
+VR static(%) = nan
+VR displacement(%) = 45.801500376318515
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.3224541355949044
+ABIC = -113702.47970431027
+M0(N-m) = 3.1246296658936187e+18
+Mw = 6.2631990344876165
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0029.log <==
+Project: NearField
+Run name: mutata
+Run number: 0029
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.008858667904100823
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 5.41176793342871e-05
+VR static(%) = nan
+VR displacement(%) = 45.6749342385805
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.189038174096923
+ABIC = -113632.77137298274
+M0(N-m) = 3.1132073361741373e+18
+Mw = 6.262138696786054
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0030.log <==
+Project: NearField
+Run name: mutata
+Run number: 0030
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.011288378916846888
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.0120355490125245e-05
+VR static(%) = nan
+VR displacement(%) = 45.3258829022303
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.0773356859342331
+ABIC = -113475.83320254477
+M0(N-m) = 3.1145281124493834e+18
+Mw = 6.262261503513368
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0031.log <==
+Project: NearField
+Run name: mutata
+Run number: 0031
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.01438449888287663
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.634412894814613e-05
+VR static(%) = nan
+VR displacement(%) = 44.89059135307766
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.989043929788203
+ABIC = -113330.24959759187
+M0(N-m) = 3.1497236694836316e+18
+Mw = 6.265514969387231
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0032.log <==
+Project: NearField
+Run name: mutata
+Run number: 0032
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.018329807108324356
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 7.324186139110767e-05
+VR static(%) = nan
+VR displacement(%) = 44.66128147280269
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.9059163532436882
+ABIC = -113155.65433613317
+M0(N-m) = 3.1177052961030113e+18
+Mw = 6.262556707144309
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0033.log <==
+Project: NearField
+Run name: mutata
+Run number: 0033
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.023357214690901212
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.077622005290893e-05
+VR static(%) = nan
+VR displacement(%) = 44.1908761938903
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.8294894047023676
+ABIC = -112949.23389667174
+M0(N-m) = 3.0679500563586074e+18
+Mw = 6.257898856924218
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0034.log <==
+Project: NearField
+Run name: mutata
+Run number: 0034
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.029763514416313176
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.834984721626858e-05
+VR static(%) = nan
+VR displacement(%) = 43.669933992921
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.7578293082945553
+ABIC = -112704.62468036103
+M0(N-m) = 2.9906736379859374e+18
+Mw = 6.250512681694304
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0035.log <==
+Project: NearField
+Run name: mutata
+Run number: 0035
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0379269019073225
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 9.65584183718433e-05
+VR static(%) = nan
+VR displacement(%) = 43.20232680850599
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.7008247508824833
+ABIC = -112422.41882420401
+M0(N-m) = 2.854157572432509e+18
+Mw = 6.236985297323775
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0036.log <==
+Project: NearField
+Run name: mutata
+Run number: 0036
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.04832930238571752
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00010598599342419173
+VR static(%) = nan
+VR displacement(%) = 42.63482604630524
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6687217158482202
+ABIC = -112131.45491450554
+M0(N-m) = 2.746083792257741e+18
+Mw = 6.225809189926045
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0037.log <==
+Project: NearField
+Run name: mutata
+Run number: 0037
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.06158482110660261
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00011719988358072276
+VR static(%) = nan
+VR displacement(%) = 41.499350409920346
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.644471044782723
+ABIC = -111813.18919452517
+M0(N-m) = 2.7376122983971246e+18
+Mw = 6.224914628811754
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0038.log <==
+Project: NearField
+Run name: mutata
+Run number: 0038
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.07847599703514611
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00012980437874331147
+VR static(%) = nan
+VR displacement(%) = 40.384851783008145
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6288419895000924
+ABIC = -111504.26214915185
+M0(N-m) = 2.764575469056944e+18
+Mw = 6.227752300047066
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0039.log <==
+Project: NearField
+Run name: mutata
+Run number: 0039
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.1
+lambda_temporal = 0.00021544346900318845
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00014473019965522443
+VR static(%) = nan
+VR displacement(%) = 39.43193549767361
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6045595400131554
+ABIC = -111198.83322908118
+M0(N-m) = 2.7765671801236644e+18
+Mw = 6.229005457239827
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0040.log <==
+Project: NearField
+Run name: mutata
+Run number: 0040
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.4756912609823083e-05
+VR static(%) = nan
+VR displacement(%) = 44.559121845889074
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.722010385196288
+ABIC = -113947.84820192764
+M0(N-m) = 3.3919321211254113e+18
+Mw = 6.286964768420516
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0041.log <==
+Project: NearField
+Run name: mutata
+Run number: 0041
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0012742749857031334
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.493194853600737e-05
+VR static(%) = nan
+VR displacement(%) = 44.62563339351047
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.661937738281706
+ABIC = -113888.37082475946
+M0(N-m) = 3.372614654230292e+18
+Mw = 6.28531114847899
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0042.log <==
+Project: NearField
+Run name: mutata
+Run number: 0042
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001623776739188721
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.527077811934074e-05
+VR static(%) = nan
+VR displacement(%) = 44.708139745369216
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.532330160174826
+ABIC = -113821.03597879238
+M0(N-m) = 3.338538212323017e+18
+Mw = 6.282370900970961
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0043.log <==
+Project: NearField
+Run name: mutata
+Run number: 0043
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00206913808111479
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.592292313677096e-05
+VR static(%) = nan
+VR displacement(%) = 44.81257842696043
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.3991976984285937
+ABIC = -113697.28242283118
+M0(N-m) = 3.314531799588823e+18
+Mw = 6.280281459993976
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0044.log <==
+Project: NearField
+Run name: mutata
+Run number: 0044
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0026366508987303583
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.693792054225355e-05
+VR static(%) = nan
+VR displacement(%) = 45.13592785422619
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.061582082530038
+ABIC = -113891.68393735027
+M0(N-m) = 3.2595678976214876e+18
+Mw = 6.275440021289354
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0045.log <==
+Project: NearField
+Run name: mutata
+Run number: 0045
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.003359818286283781
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.836997268369334e-05
+VR static(%) = nan
+VR displacement(%) = 45.47849148156845
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.8692968652567619
+ABIC = -113984.04375697597
+M0(N-m) = 3.208233664685159e+18
+Mw = 6.27084399443547
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0046.log <==
+Project: NearField
+Run name: mutata
+Run number: 0046
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.004281332398719396
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.078710662163783e-05
+VR static(%) = nan
+VR displacement(%) = 45.86029696515026
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.7175005703733528
+ABIC = -113894.15599303033
+M0(N-m) = 3.094377072314129e+18
+Mw = 6.260382156349364
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0047.log <==
+Project: NearField
+Run name: mutata
+Run number: 0047
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00545559478116852
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.459134752783883e-05
+VR static(%) = nan
+VR displacement(%) = 45.90215544149828
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.5057310563925907
+ABIC = -113939.13266259544
+M0(N-m) = 3.105783979451289e+18
+Mw = 6.261447496937185
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0048.log <==
+Project: NearField
+Run name: mutata
+Run number: 0048
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0069519279617756054
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.8981937477344856e-05
+VR static(%) = nan
+VR displacement(%) = 45.809824182852466
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.321244506736606
+ABIC = -113953.76121760948
+M0(N-m) = 3.1233984519269325e+18
+Mw = 6.263084927139695
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0049.log <==
+Project: NearField
+Run name: mutata
+Run number: 0049
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.008858667904100823
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 5.4145742631308943e-05
+VR static(%) = nan
+VR displacement(%) = 45.682184131676564
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.18833467972291
+ABIC = -113901.63207666873
+M0(N-m) = 3.112037427406301e+18
+Mw = 6.262029874306517
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0050.log <==
+Project: NearField
+Run name: mutata
+Run number: 0050
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.011288378916846888
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.0145462614791595e-05
+VR static(%) = nan
+VR displacement(%) = 45.33167857579414
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.0766487718382773
+ABIC = -113759.40809023863
+M0(N-m) = 3.113365125116351e+18
+Mw = 6.262153370855371
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0051.log <==
+Project: NearField
+Run name: mutata
+Run number: 0051
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.01438449888287663
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.636658520646145e-05
+VR static(%) = nan
+VR displacement(%) = 44.89476066132359
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.9886796515673301
+ABIC = -113624.30913591877
+M0(N-m) = 3.148935546655991e+18
+Mw = 6.265442514306418
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0052.log <==
+Project: NearField
+Run name: mutata
+Run number: 0052
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.018329807108324356
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 7.326002849197859e-05
+VR static(%) = nan
+VR displacement(%) = 44.667546484157384
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.9047751201501254
+ABIC = -113460.3101450272
+M0(N-m) = 3.1169976525251384e+18
+Mw = 6.262490983467253
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0053.log <==
+Project: NearField
+Run name: mutata
+Run number: 0053
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.023357214690901212
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.079320126125386e-05
+VR static(%) = nan
+VR displacement(%) = 44.193134053502526
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.8290736708816038
+ABIC = -113260.88905398347
+M0(N-m) = 3.0675678288141804e+18
+Mw = 6.257862782965628
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0054.log <==
+Project: NearField
+Run name: mutata
+Run number: 0054
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.029763514416313176
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.83645035933586e-05
+VR static(%) = nan
+VR displacement(%) = 43.67187954882191
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.7577250855788744
+ABIC = -113023.10652085842
+M0(N-m) = 2.9903962818451994e+18
+Mw = 6.250485829365619
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0055.log <==
+Project: NearField
+Run name: mutata
+Run number: 0055
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0379269019073225
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 9.657160428121896e-05
+VR static(%) = nan
+VR displacement(%) = 43.20434890383565
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.7007294720052624
+ABIC = -112746.45046900272
+M0(N-m) = 2.853938143840911e+18
+Mw = 6.236963037331119
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0056.log <==
+Project: NearField
+Run name: mutata
+Run number: 0056
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.04832930238571752
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00010599852246307603
+VR static(%) = nan
+VR displacement(%) = 42.63594243264966
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6686961053514734
+ABIC = -112457.93470556961
+M0(N-m) = 2.7459642992921733e+18
+Mw = 6.225796591071674
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0057.log <==
+Project: NearField
+Run name: mutata
+Run number: 0057
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.06158482110660261
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00011721182787171194
+VR static(%) = nan
+VR displacement(%) = 41.50093461512715
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6444228279045682
+ABIC = -112142.26182524987
+M0(N-m) = 2.7374069723399224e+18
+Mw = 6.224892912730217
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0058.log <==
+Project: NearField
+Run name: mutata
+Run number: 0058
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.07847599703514611
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00012981470531042672
+VR static(%) = nan
+VR displacement(%) = 40.386173720710026
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6288088237830365
+ABIC = -111835.05265651757
+M0(N-m) = 2.7643792342167593e+18
+Mw = 6.227731747950487
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0059.log <==
+Project: NearField
+Run name: mutata
+Run number: 0059
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.1
+lambda_temporal = 0.00046415888336127773
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00014473888876683288
+VR static(%) = nan
+VR displacement(%) = 39.43304288579991
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6047120271078883
+ABIC = -111531.47318492926
+M0(N-m) = 2.776398940547247e+18
+Mw = 6.228987913337918
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0060.log <==
+Project: NearField
+Run name: mutata
+Run number: 0060
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.5366835213779905e-05
+VR static(%) = nan
+VR displacement(%) = 44.73848990143632
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.530064201261719
+ABIC = -112805.96066315372
+M0(N-m) = 3.3418567725285873e+18
+Mw = 6.2826585551205465
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0061.log <==
+Project: NearField
+Run name: mutata
+Run number: 0061
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0012742749857031334
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.55306523925019e-05
+VR static(%) = nan
+VR displacement(%) = 44.78291267205421
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.5041983755678676
+ABIC = -112769.81619021147
+M0(N-m) = 3.3269200249042043e+18
+Mw = 6.2813615740567705
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0062.log <==
+Project: NearField
+Run name: mutata
+Run number: 0062
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001623776739188721
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.5854981581283905e-05
+VR static(%) = nan
+VR displacement(%) = 44.85296875258171
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.4457087639913353
+ABIC = -112735.60599060332
+M0(N-m) = 3.302628717422293e+18
+Mw = 6.279239835273932
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0063.log <==
+Project: NearField
+Run name: mutata
+Run number: 0063
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00206913808111479
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.645902361617417e-05
+VR static(%) = nan
+VR displacement(%) = 45.037213320541746
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 2.25078683975187
+ABIC = -112925.55563640675
+M0(N-m) = 3.28361697749952e+18
+Mw = 6.277568328307245
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0064.log <==
+Project: NearField
+Run name: mutata
+Run number: 0064
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0026366508987303583
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.7365981121905255e-05
+VR static(%) = nan
+VR displacement(%) = 45.27871687690168
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.9939779639195503
+ABIC = -113288.02363531965
+M0(N-m) = 3.2392306368922926e+18
+Mw = 6.273627914246912
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0065.log <==
+Project: NearField
+Run name: mutata
+Run number: 0065
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.003359818286283781
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.873916776315058e-05
+VR static(%) = nan
+VR displacement(%) = 45.58007686113748
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.8341123535365358
+ABIC = -113474.27118316527
+M0(N-m) = 3.1850938435529615e+18
+Mw = 6.268748155088461
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0066.log <==
+Project: NearField
+Run name: mutata
+Run number: 0066
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.004281332398719396
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.11111762379717e-05
+VR static(%) = nan
+VR displacement(%) = 45.93131371252556
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.6957147995148272
+ABIC = -113481.62574620068
+M0(N-m) = 3.079684598608391e+18
+Mw = 6.259004160762661
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0067.log <==
+Project: NearField
+Run name: mutata
+Run number: 0067
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00545559478116852
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.484563212550706e-05
+VR static(%) = nan
+VR displacement(%) = 45.97421177257649
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.490860182951553
+ABIC = -113675.89996684006
+M0(N-m) = 3.0936904053754696e+18
+Mw = 6.26031790028134
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0068.log <==
+Project: NearField
+Run name: mutata
+Run number: 0068
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0069519279617756054
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.9186136556161716e-05
+VR static(%) = nan
+VR displacement(%) = 45.86277222111119
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.3115436240488503
+ABIC = -113798.93512122179
+M0(N-m) = 3.11662667323249e+18
+Mw = 6.262456522132731
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0069.log <==
+Project: NearField
+Run name: mutata
+Run number: 0069
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.008858667904100823
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 5.4318055431660046e-05
+VR static(%) = nan
+VR displacement(%) = 45.7277227034869
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.1829102815905237
+ABIC = -113812.59782148594
+M0(N-m) = 3.106336199630105e+18
+Mw = 6.261498971832536
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0070.log <==
+Project: NearField
+Run name: mutata
+Run number: 0070
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.011288378916846888
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.0293377918978074e-05
+VR static(%) = nan
+VR displacement(%) = 45.363777887382916
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.0725902069268882
+ABIC = -113730.6708606294
+M0(N-m) = 3.1071933154838257e+18
+Mw = 6.261578849286421
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0071.log <==
+Project: NearField
+Run name: mutata
+Run number: 0071
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.01438449888287663
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.649500987813627e-05
+VR static(%) = nan
+VR displacement(%) = 44.92443357797382
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.9859205400547069
+ABIC = -113638.79861239514
+M0(N-m) = 3.145580773770925e+18
+Mw = 6.265133894461078
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0072.log <==
+Project: NearField
+Run name: mutata
+Run number: 0072
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.018329807108324356
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 7.336238410944649e-05
+VR static(%) = nan
+VR displacement(%) = 44.70000783181162
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.9007383706120822
+ABIC = -113519.55610627939
+M0(N-m) = 3.1144589918765916e+18
+Mw = 6.262255077924349
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0073.log <==
+Project: NearField
+Run name: mutata
+Run number: 0073
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.023357214690901212
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.088360237730291e-05
+VR static(%) = nan
+VR displacement(%) = 44.22962633722648
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.8237874972975268
+ABIC = -113359.5541592715
+M0(N-m) = 3.068938741658354e+18
+Mw = 6.257992146447702
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0074.log <==
+Project: NearField
+Run name: mutata
+Run number: 0074
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.029763514416313176
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.844335454597557e-05
+VR static(%) = nan
+VR displacement(%) = 43.68105060427072
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.757103702128635
+ABIC = -113136.27729000531
+M0(N-m) = 2.988948092743291e+18
+Mw = 6.250345581983162
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0075.log <==
+Project: NearField
+Run name: mutata
+Run number: 0075
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0379269019073225
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 9.664127973522793e-05
+VR static(%) = nan
+VR displacement(%) = 43.214210027371955
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.7001810918657282
+ABIC = -112883.00238783773
+M0(N-m) = 2.852847232555528e+18
+Mw = 6.236852344129719
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0076.log <==
+Project: NearField
+Run name: mutata
+Run number: 0076
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.04832930238571752
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00010606379112613894
+VR static(%) = nan
+VR displacement(%) = 42.64265656620514
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6684177947699973
+ABIC = -112603.22560280167
+M0(N-m) = 2.745254515203538e+18
+Mw = 6.225721743009663
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0077.log <==
+Project: NearField
+Run name: mutata
+Run number: 0077
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.06158482110660261
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00011727321360354897
+VR static(%) = nan
+VR displacement(%) = 41.50844744449509
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6442569230386725
+ABIC = -112297.35624930292
+M0(N-m) = 2.736360605871822e+18
+Mw = 6.224782219639414
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0078.log <==
+Project: NearField
+Run name: mutata
+Run number: 0078
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.07847599703514611
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00012986779172165369
+VR static(%) = nan
+VR displacement(%) = 40.392771198578856
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6285866112416488
+ABIC = -111996.72869548085
+M0(N-m) = 2.7634242627365217e+18
+Mw = 6.227631710904768
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0079.log <==
+Project: NearField
+Run name: mutata
+Run number: 0079
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.1
+lambda_temporal = 0.001
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001447835025663243
+VR static(%) = nan
+VR displacement(%) = 39.438795835058016
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6051694478586044
+ABIC = -111700.23276700993
+M0(N-m) = 2.7756115054438907e+18
+Mw = 6.228905786037459
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0080.log <==
+Project: NearField
+Run name: mutata
+Run number: 0080
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.92982167494927e-05
+VR static(%) = nan
+VR displacement(%) = 44.78409899050985
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.732533447091531
+ABIC = -112302.36220475576
+M0(N-m) = 3.297573667799013e+18
+Mw = 6.278796337643957
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0081.log <==
+Project: NearField
+Run name: mutata
+Run number: 0081
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0012742749857031334
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.94220001262425e-05
+VR static(%) = nan
+VR displacement(%) = 44.857476257550935
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.7089511846044296
+ABIC = -112325.11344609926
+M0(N-m) = 3.2832184448815805e+18
+Mw = 6.277533185958171
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0082.log <==
+Project: NearField
+Run name: mutata
+Run number: 0082
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001623776739188721
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 3.964493013592371e-05
+VR static(%) = nan
+VR displacement(%) = 44.97987419790421
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.670861657046942
+ABIC = -112364.42831117655
+M0(N-m) = 3.260901440907607e+18
+Mw = 6.27555844844923
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0083.log <==
+Project: NearField
+Run name: mutata
+Run number: 0083
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00206913808111479
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.004586616774361e-05
+VR static(%) = nan
+VR displacement(%) = 45.17913494003443
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.614019953215378
+ABIC = -112428.00095954005
+M0(N-m) = 3.225662081181031e+18
+Mw = 6.272412579302252
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0084.log <==
+Project: NearField
+Run name: mutata
+Run number: 0084
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0026366508987303583
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.0745629758178274e-05
+VR static(%) = nan
+VR displacement(%) = 45.44360905853163
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.5416697848808423
+ABIC = -112517.45904608771
+M0(N-m) = 3.1835143082433464e+18
+Mw = 6.268604537421584
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0085.log <==
+Project: NearField
+Run name: mutata
+Run number: 0085
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.003359818286283781
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.195816294234563e-05
+VR static(%) = nan
+VR displacement(%) = 45.73311822537119
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.4717839922888738
+ABIC = -112555.14211853998
+M0(N-m) = 3.1309850912833613e+18
+Mw = 6.263787333103327
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0086.log <==
+Project: NearField
+Run name: mutata
+Run number: 0086
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.004281332398719396
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.406190881992148e-05
+VR static(%) = nan
+VR displacement(%) = 46.0623939757967
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.392828616029678
+ABIC = -112573.41752248746
+M0(N-m) = 3.064416726652587e+18
+Mw = 6.257565216136319
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0087.log <==
+Project: NearField
+Run name: mutata
+Run number: 0087
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00545559478116852
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.7258611327745594e-05
+VR static(%) = nan
+VR displacement(%) = 46.253028311042186
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.3084935796188404
+ABIC = -112600.45272378855
+M0(N-m) = 3.0307272993554724e+18
+Mw = 6.254364573939757
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0088.log <==
+Project: NearField
+Run name: mutata
+Run number: 0088
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0069519279617756054
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 5.111685419534025e-05
+VR static(%) = nan
+VR displacement(%) = 46.06531445564565
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.2122112833616896
+ABIC = -112713.97935853657
+M0(N-m) = 3.063713646305868e+18
+Mw = 6.2574987806663
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0089.log <==
+Project: NearField
+Run name: mutata
+Run number: 0089
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.008858667904100823
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 5.588787308603101e-05
+VR static(%) = nan
+VR displacement(%) = 45.941927226301104
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.121067125333163
+ABIC = -112829.98971795882
+M0(N-m) = 3.0600083460217027e+18
+Mw = 6.257148407333302
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0090.log <==
+Project: NearField
+Run name: mutata
+Run number: 0090
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.011288378916846888
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.156835188513287e-05
+VR static(%) = nan
+VR displacement(%) = 45.60097358114393
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.0298136541884764
+ABIC = -112919.30439844396
+M0(N-m) = 3.064414022345937e+18
+Mw = 6.25756496063017
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0091.log <==
+Project: NearField
+Run name: mutata
+Run number: 0091
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.01438449888287663
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.754471296988693e-05
+VR static(%) = nan
+VR displacement(%) = 45.10420734836853
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.953002264841866
+ABIC = -112954.90593127387
+M0(N-m) = 3.113946313205194e+18
+Mw = 6.26220741382039
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0092.log <==
+Project: NearField
+Run name: mutata
+Run number: 0092
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.018329807108324356
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 7.420444285797998e-05
+VR static(%) = nan
+VR displacement(%) = 44.794683111636616
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.8796250183850557
+ABIC = -112948.7918316513
+M0(N-m) = 3.089897230688733e+18
+Mw = 6.2599626900832215
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0093.log <==
+Project: NearField
+Run name: mutata
+Run number: 0093
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.023357214690901212
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.157015082693957e-05
+VR static(%) = nan
+VR displacement(%) = 44.28025236135053
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.8053809263794686
+ABIC = -112921.33490836366
+M0(N-m) = 3.055400971088931e+18
+Mw = 6.256712141547603
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0094.log <==
+Project: NearField
+Run name: mutata
+Run number: 0094
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.029763514416313176
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.903378191450706e-05
+VR static(%) = nan
+VR displacement(%) = 43.741963119557624
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.746407677258239
+ABIC = -112781.77904893759
+M0(N-m) = 2.9758577142673137e+18
+Mw = 6.249074774863514
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0095.log <==
+Project: NearField
+Run name: mutata
+Run number: 0095
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0379269019073225
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 9.714158916708735e-05
+VR static(%) = nan
+VR displacement(%) = 43.26858061946116
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6928195502931431
+ABIC = -112610.72950048975
+M0(N-m) = 2.846330025119253e+18
+Mw = 6.236190169378812
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0096.log <==
+Project: NearField
+Run name: mutata
+Run number: 0096
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.04832930238571752
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00010651698023350795
+VR static(%) = nan
+VR displacement(%) = 42.66723841648747
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6633662814161523
+ABIC = -112357.404204792
+M0(N-m) = 2.743699537633385e+18
+Mw = 6.225557700051201
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0097.log <==
+Project: NearField
+Run name: mutata
+Run number: 0097
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.06158482110660261
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00011768213118404442
+VR static(%) = nan
+VR displacement(%) = 41.56426836399197
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6398975381607152
+ABIC = -112105.00951369255
+M0(N-m) = 2.7313555162064476e+18
+Mw = 6.224252154707558
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0098.log <==
+Project: NearField
+Run name: mutata
+Run number: 0098
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.07847599703514611
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00013022416017572763
+VR static(%) = nan
+VR displacement(%) = 40.430814254618866
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6267107503626556
+ABIC = -111816.5020832562
+M0(N-m) = 2.7575674498422067e+18
+Mw = 6.227017429363067
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0099.log <==
+Project: NearField
+Run name: mutata
+Run number: 0099
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.1
+lambda_temporal = 0.002154434690031882
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001450806743526332
+VR static(%) = nan
+VR displacement(%) = 39.48126886968115
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6003726320726523
+ABIC = -111561.79975029263
+M0(N-m) = 2.772462137606794e+18
+Mw = 6.228577082585165
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0100.log <==
+Project: NearField
+Run name: mutata
+Run number: 0100
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.91267839424487e-05
+VR static(%) = nan
+VR displacement(%) = 43.97208579618015
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.1855381484800407
+ABIC = -112081.22188791407
+M0(N-m) = 3.3136179867240586e+18
+Mw = 6.280201625972925
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0101.log <==
+Project: NearField
+Run name: mutata
+Run number: 0101
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0012742749857031334
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.922906903712465e-05
+VR static(%) = nan
+VR displacement(%) = 44.02402381106813
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.1785345781087624
+ABIC = -112074.18686345345
+M0(N-m) = 3.3047144706773304e+18
+Mw = 6.279422628091674
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0102.log <==
+Project: NearField
+Run name: mutata
+Run number: 0102
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001623776739188721
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.941054772335984e-05
+VR static(%) = nan
+VR displacement(%) = 44.112377177447605
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.166379809473038
+ABIC = -112064.98571140287
+M0(N-m) = 3.289037072018787e+18
+Mw = 6.278045845741747
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0103.log <==
+Project: NearField
+Run name: mutata
+Run number: 0103
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00206913808111479
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 4.973564267631074e-05
+VR static(%) = nan
+VR displacement(%) = 44.26372785774291
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.1412669335512766
+ABIC = -112077.99927546759
+M0(N-m) = 3.263528370128856e+18
+Mw = 6.275791594938109
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0104.log <==
+Project: NearField
+Run name: mutata
+Run number: 0104
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0026366508987303583
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 5.0313179252403554e-05
+VR static(%) = nan
+VR displacement(%) = 44.49077148356055
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.1064831366501795
+ABIC = -112096.42231806161
+M0(N-m) = 3.2265608897557274e+18
+Mw = 6.272493243513342
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0105.log <==
+Project: NearField
+Run name: mutata
+Run number: 0105
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.003359818286283781
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 5.134185107060787e-05
+VR static(%) = nan
+VR displacement(%) = 44.78832102472642
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.0686049949778582
+ABIC = -112092.41379312941
+M0(N-m) = 3.1788205234550195e+18
+Mw = 6.268177338862866
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0106.log <==
+Project: NearField
+Run name: mutata
+Run number: 0106
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.004281332398719396
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 5.316892127324795e-05
+VR static(%) = nan
+VR displacement(%) = 45.18745734951294
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 1.0181912523262586
+ABIC = -112138.62261884662
+M0(N-m) = 3.1178368752480164e+18
+Mw = 6.262568926150568
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0107.log <==
+Project: NearField
+Run name: mutata
+Run number: 0107
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00545559478116852
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 5.609789863085183e-05
+VR static(%) = nan
+VR displacement(%) = 45.51269969561237
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.9443636187185723
+ABIC = -112255.3859058281
+M0(N-m) = 3.0683595024369203e+18
+Mw = 6.257937494734346
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0108.log <==
+Project: NearField
+Run name: mutata
+Run number: 0108
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0069519279617756054
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 5.9804207991038027e-05
+VR static(%) = nan
+VR displacement(%) = 45.60165062217566
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.8774493110049784
+ABIC = -112251.62484447566
+M0(N-m) = 3.0560260635463096e+18
+Mw = 6.256771369221561
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0109.log <==
+Project: NearField
+Run name: mutata
+Run number: 0109
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.008858667904100823
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.418587197166766e-05
+VR static(%) = nan
+VR displacement(%) = 45.599007689671275
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.8282046987848685
+ABIC = -112188.55133914544
+M0(N-m) = 3.0293865944541793e+18
+Mw = 6.254236466171445
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0110.log <==
+Project: NearField
+Run name: mutata
+Run number: 0110
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.011288378916846888
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.924636877258097e-05
+VR static(%) = nan
+VR displacement(%) = 45.40295607379778
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.7711029976141236
+ABIC = -112238.13023799949
+M0(N-m) = 2.99317885752747e+18
+Mw = 6.250755112600308
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0111.log <==
+Project: NearField
+Run name: mutata
+Run number: 0111
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.01438449888287663
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 7.471954152703578e-05
+VR static(%) = nan
+VR displacement(%) = 45.00484333085555
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.7251623288186628
+ABIC = -112221.05373155682
+M0(N-m) = 3.0106888734576635e+18
+Mw = 6.252443918371953
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0112.log <==
+Project: NearField
+Run name: mutata
+Run number: 0112
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.018329807108324356
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.06658957985888e-05
+VR static(%) = nan
+VR displacement(%) = 44.681286189634186
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6883260889043258
+ABIC = -112164.0873023142
+M0(N-m) = 3.0021432530889533e+18
+Mw = 6.251620941070234
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0113.log <==
+Project: NearField
+Run name: mutata
+Run number: 0113
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.023357214690901212
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.738752435215934e-05
+VR static(%) = nan
+VR displacement(%) = 44.29887433408288
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.654483256788713
+ABIC = -112048.07228723238
+M0(N-m) = 2.961644110256781e+18
+Mw = 6.24768857984667
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0114.log <==
+Project: NearField
+Run name: mutata
+Run number: 0114
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.029763514416313176
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 9.421768963647951e-05
+VR static(%) = nan
+VR displacement(%) = 43.761323892905246
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6278552392281285
+ABIC = -111873.05657485715
+M0(N-m) = 2.8946174908407224e+18
+Mw = 6.24106078801404
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0115.log <==
+Project: NearField
+Run name: mutata
+Run number: 0115
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0379269019073225
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00010174282040072486
+VR static(%) = nan
+VR displacement(%) = 43.28115106524867
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.608285121455081
+ABIC = -111667.58307146217
+M0(N-m) = 2.8000080456113275e+18
+Mw = 6.231439519504239
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0116.log <==
+Project: NearField
+Run name: mutata
+Run number: 0116
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.04832930238571752
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001107037776334265
+VR static(%) = nan
+VR displacement(%) = 42.696204809427066
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5914946109225062
+ABIC = -111444.57377568178
+M0(N-m) = 2.7146975804709873e+18
+Mw = 6.2224809705728585
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0117.log <==
+Project: NearField
+Run name: mutata
+Run number: 0117
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.06158482110660261
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00012146377367979064
+VR static(%) = nan
+VR displacement(%) = 41.69410484131261
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5752544528618185
+ABIC = -111230.75024958779
+M0(N-m) = 2.6993786464011796e+18
+Mw = 6.220842538699939
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0118.log <==
+Project: NearField
+Run name: mutata
+Run number: 0118
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.07847599703514611
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00013354969135190986
+VR static(%) = nan
+VR displacement(%) = 40.51735878284665
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.562508482044293
+ABIC = -110989.37242069645
+M0(N-m) = 2.7176192548870216e+18
+Mw = 6.222792407291937
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0119.log <==
+Project: NearField
+Run name: mutata
+Run number: 0119
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.1
+lambda_temporal = 0.004641588833612777
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00014787823939887482
+VR static(%) = nan
+VR displacement(%) = 39.68174986596138
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5451530657219568
+ABIC = -110816.44581985164
+M0(N-m) = 2.726327024626461e+18
+Mw = 6.2237186323447595
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0120.log <==
+Project: NearField
+Run name: mutata
+Run number: 0120
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.896322908248261e-05
+VR static(%) = nan
+VR displacement(%) = 43.02670337865921
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.8588680712154971
+ABIC = -111294.18699677431
+M0(N-m) = 3.270732069096929e+18
+Mw = 6.276429979446489
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0121.log <==
+Project: NearField
+Run name: mutata
+Run number: 0121
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0012742749857031334
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.90406830573633e-05
+VR static(%) = nan
+VR displacement(%) = 43.057906511907895
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.8557663678716474
+ABIC = -111286.34896203637
+M0(N-m) = 3.265858042746872e+18
+Mw = 6.2759982022039065
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0122.log <==
+Project: NearField
+Run name: mutata
+Run number: 0122
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001623776739188721
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.91742993810613e-05
+VR static(%) = nan
+VR displacement(%) = 43.10644047624044
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.8504860552219461
+ABIC = -111277.7691160179
+M0(N-m) = 3.2594846826143734e+18
+Mw = 6.275432629659367
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0123.log <==
+Project: NearField
+Run name: mutata
+Run number: 0123
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00206913808111479
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.941033860434033e-05
+VR static(%) = nan
+VR displacement(%) = 43.18412522173459
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.8420091697984619
+ABIC = -111268.91681611817
+M0(N-m) = 3.2503422646003057e+18
+Mw = 6.274619396714289
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0124.log <==
+Project: NearField
+Run name: mutata
+Run number: 0124
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0026366508987303583
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 6.983634637841917e-05
+VR static(%) = nan
+VR displacement(%) = 43.31456331356151
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.8285697683515609
+ABIC = -111262.25296623718
+M0(N-m) = 3.2350173329498025e+18
+Mw = 6.273251074616085
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0125.log <==
+Project: NearField
+Run name: mutata
+Run number: 0125
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.003359818286283781
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 7.06167475622717e-05
+VR static(%) = nan
+VR displacement(%) = 43.52116200895999
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.8079530796385754
+ABIC = -111264.99389649616
+M0(N-m) = 3.2086975246182897e+18
+Mw = 6.270885852826184
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0126.log <==
+Project: NearField
+Run name: mutata
+Run number: 0126
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.004281332398719396
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 7.199759182821374e-05
+VR static(%) = nan
+VR displacement(%) = 43.81589980052607
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.773361037293027
+ABIC = -111319.40760626887
+M0(N-m) = 3.154958431743318e+18
+Mw = 6.265995761037919
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0127.log <==
+Project: NearField
+Run name: mutata
+Run number: 0127
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00545559478116852
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 7.428045720426808e-05
+VR static(%) = nan
+VR displacement(%) = 44.11719437249687
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.7293167934102555
+ABIC = -111391.69943917464
+M0(N-m) = 3.0948072481260575e+18
+Mw = 6.260422403544471
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0128.log <==
+Project: NearField
+Run name: mutata
+Run number: 0128
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0069519279617756054
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 7.774702444556918e-05
+VR static(%) = nan
+VR displacement(%) = 44.19321638130233
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6755963933109445
+ABIC = -111461.0003659712
+M0(N-m) = 3.061346181047167e+18
+Mw = 6.257274961976493
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0129.log <==
+Project: NearField
+Run name: mutata
+Run number: 0129
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.008858667904100823
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.203122309191831e-05
+VR static(%) = nan
+VR displacement(%) = 44.13534361137687
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.625944378081963
+ABIC = -111501.08984306728
+M0(N-m) = 3.0265079992123607e+18
+Mw = 6.253961217408117
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0130.log <==
+Project: NearField
+Run name: mutata
+Run number: 0130
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.011288378916846888
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 8.695002582989504e-05
+VR static(%) = nan
+VR displacement(%) = 43.92592745928724
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5792400854311736
+ABIC = -111539.40810548689
+M0(N-m) = 2.965924206164771e+18
+Mw = 6.2481066989940555
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0131.log <==
+Project: NearField
+Run name: mutata
+Run number: 0131
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.01438449888287663
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 9.221209683057426e-05
+VR static(%) = nan
+VR displacement(%) = 43.5344458893604
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5396369530237299
+ABIC = -111551.15169945525
+M0(N-m) = 2.9288392267390044e+18
+Mw = 6.244463688357561
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0132.log <==
+Project: NearField
+Run name: mutata
+Run number: 0132
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.018329807108324356
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 9.788717033408738e-05
+VR static(%) = nan
+VR displacement(%) = 43.1875047534827
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5095600673527687
+ABIC = -111499.99888457017
+M0(N-m) = 2.8905665746201677e+18
+Mw = 6.240655317573488
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0133.log <==
+Project: NearField
+Run name: mutata
+Run number: 0133
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.023357214690901212
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001042529031838755
+VR static(%) = nan
+VR displacement(%) = 42.86307899323554
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.4832420602333154
+ABIC = -111406.22047172746
+M0(N-m) = 2.832779514551177e+18
+Mw = 6.2348085154197515
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0134.log <==
+Project: NearField
+Run name: mutata
+Run number: 0134
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.029763514416313176
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00011109367508486307
+VR static(%) = nan
+VR displacement(%) = 42.32469578366991
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.463717365339802
+ABIC = -111228.74298375743
+M0(N-m) = 2.78482545977561e+18
+Mw = 6.229865320503391
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0135.log <==
+Project: NearField
+Run name: mutata
+Run number: 0135
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0379269019073225
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00011863458528617051
+VR static(%) = nan
+VR displacement(%) = 41.97702489237044
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.45064072829047547
+ABIC = -111063.8988605176
+M0(N-m) = 2.7255935240988457e+18
+Mw = 6.223640725796491
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0136.log <==
+Project: NearField
+Run name: mutata
+Run number: 0136
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.04832930238571752
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00012743329941509275
+VR static(%) = nan
+VR displacement(%) = 41.56369304738281
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.43991572715742483
+ABIC = -110862.34025982709
+M0(N-m) = 2.66407552281534e+18
+Mw = 6.217031021542649
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0137.log <==
+Project: NearField
+Run name: mutata
+Run number: 0137
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.06158482110660261
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00013771662015981588
+VR static(%) = nan
+VR displacement(%) = 41.01713377597614
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.4283700048260428
+ABIC = -110671.96243379719
+M0(N-m) = 2.619613833494406e+18
+Mw = 6.212158183438806
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0138.log <==
+Project: NearField
+Run name: mutata
+Run number: 0138
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.07847599703514611
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00014928331742401573
+VR static(%) = nan
+VR displacement(%) = 40.17244661236424
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.4188338182702101
+ABIC = -110466.1612135827
+M0(N-m) = 2.6051213379074043e+18
+Mw = 6.210551970734995
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0139.log <==
+Project: NearField
+Run name: mutata
+Run number: 0139
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.1
+lambda_temporal = 0.01
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00016263515073678946
+VR static(%) = nan
+VR displacement(%) = 39.6147342208519
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.40657145956944374
+ABIC = -110309.44135423453
+M0(N-m) = 2.56107915880512e+18
+Mw = 6.205615334676197
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0140.log <==
+Project: NearField
+Run name: mutata
+Run number: 0140
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001081084027371485
+VR static(%) = nan
+VR displacement(%) = 40.77211034703458
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.630886867283745
+ABIC = -109851.25604762259
+M0(N-m) = 3.144869554619491e+18
+Mw = 6.265068424097148
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0141.log <==
+Project: NearField
+Run name: mutata
+Run number: 0141
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0012742749857031334
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00010815147728333307
+VR static(%) = nan
+VR displacement(%) = 40.7811108660364
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6297921222836053
+ABIC = -109844.87106405638
+M0(N-m) = 3.1427001680302316e+18
+Mw = 6.264868632507547
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0142.log <==
+Project: NearField
+Run name: mutata
+Run number: 0142
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001623776739188721
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001082250042305536
+VR static(%) = nan
+VR displacement(%) = 40.79605242841874
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6279220950812462
+ABIC = -109835.18852795908
+M0(N-m) = 3.1391474758672404e+18
+Mw = 6.264541146104554
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0143.log <==
+Project: NearField
+Run name: mutata
+Run number: 0143
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00206913808111479
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001083533704134229
+VR static(%) = nan
+VR displacement(%) = 40.821214594360896
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6246555461707796
+ABIC = -109821.3801359766
+M0(N-m) = 3.1333526900405335e+18
+Mw = 6.264006187867221
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0144.log <==
+Project: NearField
+Run name: mutata
+Run number: 0144
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0026366508987303583
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00010858322484639018
+VR static(%) = nan
+VR displacement(%) = 40.86400403799204
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6188976767050145
+ABIC = -109803.9198417346
+M0(N-m) = 3.12392691277143e+18
+Mw = 6.263133909728951
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0145.log <==
+Project: NearField
+Run name: mutata
+Run number: 0145
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.003359818286283781
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00010900301657166141
+VR static(%) = nan
+VR displacement(%) = 40.935831725253976
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6087549541258437
+ABIC = -109788.81056599275
+M0(N-m) = 3.1086187982663475e+18
+Mw = 6.261711645946729
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0146.log <==
+Project: NearField
+Run name: mutata
+Run number: 0146
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.004281332398719396
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001097640165869407
+VR static(%) = nan
+VR displacement(%) = 41.03389193904307
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5899105357960177
+ABIC = -109800.96165902945
+M0(N-m) = 3.083619037293341e+18
+Mw = 6.259373812136515
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0147.log <==
+Project: NearField
+Run name: mutata
+Run number: 0147
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00545559478116852
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00011109836533241733
+VR static(%) = nan
+VR displacement(%) = 41.148536364635646
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5654060922845623
+ABIC = -109833.42315065833
+M0(N-m) = 3.0474184975433564e+18
+Mw = 6.255954732897903
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0148.log <==
+Project: NearField
+Run name: mutata
+Run number: 0148
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0069519279617756054
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00011338943962160775
+VR static(%) = nan
+VR displacement(%) = 41.28765648889625
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5353889319751669
+ABIC = -109882.27515341886
+M0(N-m) = 2.9959727599550177e+18
+Mw = 6.251025240229456
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0149.log <==
+Project: NearField
+Run name: mutata
+Run number: 0149
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.008858667904100823
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00011679501675393893
+VR static(%) = nan
+VR displacement(%) = 41.221798996645475
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.4977963752581527
+ABIC = -109973.5263112912
+M0(N-m) = 2.9559051569136133e+18
+Mw = 6.247126996790865
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0150.log <==
+Project: NearField
+Run name: mutata
+Run number: 0150
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.011288378916846888
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00012097714707676277
+VR static(%) = nan
+VR displacement(%) = 40.98500737221927
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.46504643548659286
+ABIC = -110027.42551978328
+M0(N-m) = 2.9142274421620193e+18
+Mw = 6.24301562897366
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0151.log <==
+Project: NearField
+Run name: mutata
+Run number: 0151
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.01438449888287663
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00012576128995236152
+VR static(%) = nan
+VR displacement(%) = 40.70227362700265
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.4376788226666977
+ABIC = -110045.1238890583
+M0(N-m) = 2.864717085439474e+18
+Mw = 6.238054492160523
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0152.log <==
+Project: NearField
+Run name: mutata
+Run number: 0152
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.018329807108324356
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00013110219536526465
+VR static(%) = nan
+VR displacement(%) = 40.40529860917277
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.4150652569060651
+ABIC = -110039.76843711294
+M0(N-m) = 2.8222825257281664e+18
+Mw = 6.233733657878956
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0153.log <==
+Project: NearField
+Run name: mutata
+Run number: 0153
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.023357214690901212
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00013694237145768677
+VR static(%) = nan
+VR displacement(%) = 40.10260650030627
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.3972767785912593
+ABIC = -110028.87994676312
+M0(N-m) = 2.7810827806493594e+18
+Mw = 6.229475944066977
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0154.log <==
+Project: NearField
+Run name: mutata
+Run number: 0154
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.029763514416313176
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00014387644306122535
+VR static(%) = nan
+VR displacement(%) = 39.90224465194401
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.3816899870823511
+ABIC = -109987.34365563738
+M0(N-m) = 2.727435613954404e+18
+Mw = 6.223836338050308
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0155.log <==
+Project: NearField
+Run name: mutata
+Run number: 0155
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0379269019073225
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00015210754980417082
+VR static(%) = nan
+VR displacement(%) = 39.61588766502041
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.3670996394525851
+ABIC = -109920.32644800909
+M0(N-m) = 2.6830585009188844e+18
+Mw = 6.21908676136864
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0156.log <==
+Project: NearField
+Run name: mutata
+Run number: 0156
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.04832930238571752
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00016150197781609706
+VR static(%) = nan
+VR displacement(%) = 39.38672822678219
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.3530637024537436
+ABIC = -109871.13935138792
+M0(N-m) = 2.6267121452131794e+18
+Mw = 6.212941654768121
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0157.log <==
+Project: NearField
+Run name: mutata
+Run number: 0157
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.06158482110660261
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00017228942611166253
+VR static(%) = nan
+VR displacement(%) = 39.24880894339028
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.3390243346670022
+ABIC = -109846.42464717
+M0(N-m) = 2.554979986897722e+18
+Mw = 6.2049250017765925
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0158.log <==
+Project: NearField
+Run name: mutata
+Run number: 0158
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.07847599703514611
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00018433483283279638
+VR static(%) = nan
+VR displacement(%) = 39.003493855522166
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.32523113855639035
+ABIC = -109820.2351404156
+M0(N-m) = 2.486308320939847e+18
+Mw = 6.197036655619159
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0159.log <==
+Project: NearField
+Run name: mutata
+Run number: 0159
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.1
+lambda_temporal = 0.021544346900318822
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001973271594546881
+VR static(%) = nan
+VR displacement(%) = 38.744423892610115
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.31068091247665486
+ABIC = -109781.02114211411
+M0(N-m) = 2.4132314503052334e+18
+Mw = 6.188399317733355
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0160.log <==
+Project: NearField
+Run name: mutata
+Run number: 0160
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00017461548712815396
+VR static(%) = nan
+VR displacement(%) = 34.88083337960107
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6261994285379211
+ABIC = -107461.77915285493
+M0(N-m) = 3.0743332798065014e+18
+Mw = 6.258500630904444
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0161.log <==
+Project: NearField
+Run name: mutata
+Run number: 0161
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0012742749857031334
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001746817763531031
+VR static(%) = nan
+VR displacement(%) = 34.89332063047396
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6195965038054092
+ABIC = -107481.3799527419
+M0(N-m) = 3.0726041932899215e+18
+Mw = 6.258337745943496
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0162.log <==
+Project: NearField
+Run name: mutata
+Run number: 0162
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001623776739188721
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00017478642128487847
+VR static(%) = nan
+VR displacement(%) = 34.914694903479834
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.6101466475456869
+ABIC = -107508.86619478033
+M0(N-m) = 3.0696169639132365e+18
+Mw = 6.2580561241862505
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0163.log <==
+Project: NearField
+Run name: mutata
+Run number: 0163
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00206913808111479
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00017494994469973338
+VR static(%) = nan
+VR displacement(%) = 34.95174117023353
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5974248335592967
+ABIC = -107544.41303302193
+M0(N-m) = 3.0643575037584164e+18
+Mw = 6.257559620634364
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0164.log <==
+Project: NearField
+Run name: mutata
+Run number: 0164
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0026366508987303583
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00017520344986028102
+VR static(%) = nan
+VR displacement(%) = 35.01609320269182
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5814837816680144
+ABIC = -107585.62085803738
+M0(N-m) = 3.055051674134666e+18
+Mw = 6.25667904029226
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0165.log <==
+Project: NearField
+Run name: mutata
+Run number: 0165
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.003359818286283781
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00017559687198206907
+VR static(%) = nan
+VR displacement(%) = 35.11692422591637
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5631651040649475
+ABIC = -107624.06286427085
+M0(N-m) = 3.0402088842394173e+18
+Mw = 6.2552689491944315
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0166.log <==
+Project: NearField
+Run name: mutata
+Run number: 0166
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.004281332398719396
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001762165377472645
+VR static(%) = nan
+VR displacement(%) = 35.28340728040891
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5419941046497534
+ABIC = -107660.38322537529
+M0(N-m) = 3.0157796998073733e+18
+Mw = 6.252933075671074
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0167.log <==
+Project: NearField
+Run name: mutata
+Run number: 0167
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00545559478116852
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001772046604084324
+VR static(%) = nan
+VR displacement(%) = 35.53694428682034
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.5162230683225809
+ABIC = -107707.3777679198
+M0(N-m) = 2.979034295906488e+18
+Mw = 6.2493836686840805
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0168.log <==
+Project: NearField
+Run name: mutata
+Run number: 0168
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0069519279617756054
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00017877818125757724
+VR static(%) = nan
+VR displacement(%) = 35.83929034657607
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.48510977304686803
+ABIC = -107781.62680349429
+M0(N-m) = 2.9371053875471923e+18
+Mw = 6.245279686606862
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0169.log <==
+Project: NearField
+Run name: mutata
+Run number: 0169
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.008858667904100823
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001811826781843559
+VR static(%) = nan
+VR displacement(%) = 36.1429879492835
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.4503407216267383
+ABIC = -107895.32002801436
+M0(N-m) = 2.8918748060684206e+18
+Mw = 6.240786325146545
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0170.log <==
+Project: NearField
+Run name: mutata
+Run number: 0170
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.011288378916846888
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0001845655851603158
+VR static(%) = nan
+VR displacement(%) = 36.326608076339774
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.4163643143980957
+ABIC = -108037.03956277117
+M0(N-m) = 2.8435227855989197e+18
+Mw = 6.235904475115114
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0171.log <==
+Project: NearField
+Run name: mutata
+Run number: 0171
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.01438449888287663
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00018892431125481246
+VR static(%) = nan
+VR displacement(%) = 36.33901769986802
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.3886042784219694
+ABIC = -108155.73934481537
+M0(N-m) = 2.8010263513253325e+18
+Mw = 6.231544796381332
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0172.log <==
+Project: NearField
+Run name: mutata
+Run number: 0172
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.018329807108324356
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00019399337762636401
+VR static(%) = nan
+VR displacement(%) = 36.381356302124956
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.3657904306177397
+ABIC = -108264.6224123411
+M0(N-m) = 2.748153902569899e+18
+Mw = 6.226027367000034
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0173.log <==
+Project: NearField
+Run name: mutata
+Run number: 0173
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.023357214690901212
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00019975480159467205
+VR static(%) = nan
+VR displacement(%) = 36.40023783156373
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.34567694738749427
+ABIC = -108362.86546023337
+M0(N-m) = 2.6998580350114483e+18
+Mw = 6.220893952344981
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0174.log <==
+Project: NearField
+Run name: mutata
+Run number: 0174
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.029763514416313176
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00020634489266554263
+VR static(%) = nan
+VR displacement(%) = 36.54422323266303
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.3273439468897735
+ABIC = -108459.68051650804
+M0(N-m) = 2.638629838456227e+18
+Mw = 6.214252312845593
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0175.log <==
+Project: NearField
+Run name: mutata
+Run number: 0175
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0379269019073225
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0002142210313146482
+VR static(%) = nan
+VR displacement(%) = 36.7770532677436
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.3091465039926636
+ABIC = -108580.56045524945
+M0(N-m) = 2.5545303145288243e+18
+Mw = 6.204874040538311
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0176.log <==
+Project: NearField
+Run name: mutata
+Run number: 0176
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.04832930238571752
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0002234642167704087
+VR static(%) = nan
+VR displacement(%) = 36.946793553483815
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.2910990850455751
+ABIC = -108693.29890439897
+M0(N-m) = 2.4729043478372045e+18
+Mw = 6.195471545424345
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0177.log <==
+Project: NearField
+Run name: mutata
+Run number: 0177
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.06158482110660261
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00023390619938953524
+VR static(%) = nan
+VR displacement(%) = 37.14552381575174
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.27360879223222906
+ABIC = -108801.86116888851
+M0(N-m) = 2.375443946421131e+18
+Mw = 6.183829857858367
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0178.log <==
+Project: NearField
+Run name: mutata
+Run number: 0178
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.07847599703514611
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00024586226027462505
+VR static(%) = nan
+VR displacement(%) = 37.38216448327447
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.2553759013540455
+ABIC = -108932.55212401903
+M0(N-m) = 2.2650399956446725e+18
+Mw = 6.170050583403848
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0179.log <==
+Project: NearField
+Run name: mutata
+Run number: 0179
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.1
+lambda_temporal = 0.046415888336127774
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0002586900843336873
+VR static(%) = nan
+VR displacement(%) = 37.44868874778994
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.23903023047961006
+ABIC = -108988.98924070905
+M0(N-m) = 2.1715429994155123e+18
+Mw = 6.15784562225796
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0180.log <==
+Project: NearField
+Run name: mutata
+Run number: 0180
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0002727457853064909
+VR static(%) = nan
+VR displacement(%) = 31.10920543180159
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.46195318652727213
+ABIC = -105261.52623100567
+M0(N-m) = 2.7754360278740777e+18
+Mw = 6.228887481038307
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0181.log <==
+Project: NearField
+Run name: mutata
+Run number: 0181
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0012742749857031334
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00027280603111444615
+VR static(%) = nan
+VR displacement(%) = 31.11133538786557
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.46111560692652576
+ABIC = -105269.31336048027
+M0(N-m) = 2.7743385604844657e+18
+Mw = 6.228772972114265
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0182.log <==
+Project: NearField
+Run name: mutata
+Run number: 0182
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.001623776739188721
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0002729032117469897
+VR static(%) = nan
+VR displacement(%) = 31.114908313814247
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.45977878552701434
+ABIC = -105281.77322710367
+M0(N-m) = 2.772561106317911e+18
+Mw = 6.228587417754374
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0183.log <==
+Project: NearField
+Run name: mutata
+Run number: 0183
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00206913808111479
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0002730593577169719
+VR static(%) = nan
+VR displacement(%) = 31.120277645587223
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.4576596525827692
+ABIC = -105301.4955885435
+M0(N-m) = 2.7697833129276785e+18
+Mw = 6.228297196300297
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0184.log <==
+Project: NearField
+Run name: mutata
+Run number: 0184
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0026366508987303583
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00027330854037747074
+VR static(%) = nan
+VR displacement(%) = 31.126619283503633
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.45433955995253295
+ABIC = -105332.13189852121
+M0(N-m) = 2.765693673173175e+18
+Mw = 6.227869384133802
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0185.log <==
+Project: NearField
+Run name: mutata
+Run number: 0185
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.003359818286283781
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00027370243372225615
+VR static(%) = nan
+VR displacement(%) = 31.1385176824299
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.44931102006852813
+ABIC = -105378.90260052003
+M0(N-m) = 2.7590694039674153e+18
+Mw = 6.227175083485087
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0186.log <==
+Project: NearField
+Run name: mutata
+Run number: 0186
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.004281332398719396
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00027431699574595485
+VR static(%) = nan
+VR displacement(%) = 31.161521475870668
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.441906481365333
+ABIC = -105449.51476627332
+M0(N-m) = 2.7486275179690476e+18
+Mw = 6.226077260089381
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0187.log <==
+Project: NearField
+Run name: mutata
+Run number: 0187
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.00545559478116852
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00027525696742563573
+VR static(%) = nan
+VR displacement(%) = 31.20943139238307
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.431421334678018
+ABIC = -105553.7522475267
+M0(N-m) = 2.7321124470033326e+18
+Mw = 6.224332379910693
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0188.log <==
+Project: NearField
+Run name: mutata
+Run number: 0188
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0069519279617756054
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00027666662162789153
+VR static(%) = nan
+VR displacement(%) = 31.29571459384346
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.41751091853186245
+ABIC = -105694.60529460527
+M0(N-m) = 2.7067308556449137e+18
+Mw = 6.221630049169146
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0189.log <==
+Project: NearField
+Run name: mutata
+Run number: 0189
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.008858667904100823
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00027871778644759324
+VR static(%) = nan
+VR displacement(%) = 31.399768549227414
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.39956474702458333
+ABIC = -105885.17332552528
+M0(N-m) = 2.674034688466235e+18
+Mw = 6.21811135784986
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0190.log <==
+Project: NearField
+Run name: mutata
+Run number: 0190
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.011288378916846888
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0002815911879306477
+VR static(%) = nan
+VR displacement(%) = 31.568521509806057
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.3783819643277313
+ABIC = -106120.29433079777
+M0(N-m) = 2.6285728517619886e+18
+Mw = 6.213146678757196
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0191.log <==
+Project: NearField
+Run name: mutata
+Run number: 0191
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.01438449888287663
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0002855291233327905
+VR static(%) = nan
+VR displacement(%) = 31.769042637722322
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.3558412270057875
+ABIC = -106367.27463736039
+M0(N-m) = 2.5705972932137364e+18
+Mw = 6.206689363934945
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0192.log <==
+Project: NearField
+Run name: mutata
+Run number: 0192
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.018329807108324356
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0002907181655004177
+VR static(%) = nan
+VR displacement(%) = 32.05902303670041
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.3317955708145463
+ABIC = -106638.66460509165
+M0(N-m) = 2.4979451441689825e+18
+Mw = 6.198388597913242
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0193.log <==
+Project: NearField
+Run name: mutata
+Run number: 0193
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.023357214690901212
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00029701424631253814
+VR static(%) = nan
+VR displacement(%) = 32.48593870186477
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.3070574640366572
+ABIC = -106932.21726845403
+M0(N-m) = 2.4110143911528417e+18
+Mw = 6.188133201769572
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0194.log <==
+Project: NearField
+Run name: mutata
+Run number: 0194
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.029763514416313176
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0003041328213073195
+VR static(%) = nan
+VR displacement(%) = 33.03466885846359
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.28271236475058903
+ABIC = -107218.23799258763
+M0(N-m) = 2.3146437349610906e+18
+Mw = 6.176322769876796
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0195.log <==
+Project: NearField
+Run name: mutata
+Run number: 0195
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.0379269019073225
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00031193508995479904
+VR static(%) = nan
+VR displacement(%) = 33.65207994845162
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.2595824106346949
+ABIC = -107472.2521904723
+M0(N-m) = 2.212725618218733e+18
+Mw = 6.163285042668958
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0196.log <==
+Project: NearField
+Run name: mutata
+Run number: 0196
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.04832930238571752
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00032033177921040267
+VR static(%) = nan
+VR displacement(%) = 34.16309045616192
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.23904979296497422
+ABIC = -107660.90492640864
+M0(N-m) = 2.1207790863245844e+18
+Mw = 6.1509969546869865
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0197.log <==
+Project: NearField
+Run name: mutata
+Run number: 0197
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.06158482110660261
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00032950724520315594
+VR static(%) = nan
+VR displacement(%) = 34.56889851434987
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.2206199226442416
+ABIC = -107770.97624417451
+M0(N-m) = 2.0325217968827336e+18
+Mw = 6.138690141127018
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0198.log <==
+Project: NearField
+Run name: mutata
+Run number: 0198
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.07847599703514611
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.0003396543856379271
+VR static(%) = nan
+VR displacement(%) = 34.910610584907886
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.2031895126342979
+ABIC = -107821.93802511887
+M0(N-m) = 1.938968027341322e+18
+Mw = 6.125047098552482
+
+==> /Users/jeanbaptistetary/Documents/SSI/NearField/output/inverse_models/models/mutata.0199.log <==
+Project: NearField
+Run name: mutata
+Run number: 0199
+Velocity model: NF-VelMod.mod
+Fault model: mutata.fault
+G name: mutata
+GF list: mutata.gflist
+Solver: nnls
+lambda_spatial = 0.1
+lambda_temporal = 0.1
+Beta(degs) = 0
+Mean rupture velocity (km/s) = 2.5
+Number of rupture windows = 10
+L2 = 0.00035090869090052465
+VR static(%) = nan
+VR displacement(%) = 35.027988311525306
+VR velocity(%) = nan
+VR tsunami(%) = nan
+VR InSAR LOS(%) = nan
+Lm = 0.18690298684589504
+ABIC = -107796.2849017678
+M0(N-m) = 1.8481349767966525e+18
+Mw = 6.111155790887121
